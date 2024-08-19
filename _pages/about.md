@@ -6,20 +6,20 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Enming.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>[New Affiliation is Searching]</p>
+    <p>...</p>
+    <p>...</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I am ZHANG Enming, an educational researcher emphasizing on the filed of learning from errors. I studied vehicle engineering at Jilin University and got my bachelor's degree in 2018. I got my Ph.D. at the Department of Curriculum and Learning Sciences, Zhejiang University (Successive Postgraduate and Doctoral Programs, 2018-2024). I also have an experience as a special research student studying at the Department of Educational Psychology, The University of Tokyo (2022-2023), granted by China Scholarship Council (CSC).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I had authored more than 10 publications in scientific journals and books (some of them were translating articles and books). My research interests fall in educational psychology and its connection with teaching and learning practices, including the topics of learning from errors, self-regulated learning, and teacher judgments.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I would like to cooperate with researchers and teachers worldwide to design and conduct fun research on teaching and learning improvement. You can contact me by email: definedming@zju.edu.cn
