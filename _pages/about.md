@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Connecting educational psychology and practice; Learning from errors
 
 profile:
-  align: right
-  image: Enming.jpg
+  align: left
+  image: Enming1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>[New Affiliation is Searching]</p>
+    <p></p>
     <p>...</p>
     <p>...</p>
 
