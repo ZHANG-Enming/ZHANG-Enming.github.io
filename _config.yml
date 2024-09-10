@@ -314,7 +314,7 @@ scholar:
   first_name: [Enming]
 
   style: apa
-  locale: en
+  locale: cn
 
   source: /_bibliography/
   bibliography: papers.bib
