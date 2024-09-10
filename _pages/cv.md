@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv
+permalink: /cv-success-failure/
 title: cv
 nav: true
 nav_order: 5
