@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 permalink: /cv-success-failure/
 title: cv
 nav: true
