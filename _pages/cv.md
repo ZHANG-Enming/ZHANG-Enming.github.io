@@ -3,7 +3,7 @@ layout: cv
 permalink: /cv-success-failure/
 title: cv
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 <a href = "https://zhang-enming.github.io/assets/pdf/CV.pdf">Enming's cv</a>
