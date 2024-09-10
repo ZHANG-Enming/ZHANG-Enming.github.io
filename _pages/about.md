@@ -16,8 +16,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I am an educational researcher emphasizing on the filed of learning from errors. I got my Ph.D. at Zhejiang University and am working at [new affiliation].
+It is the best decision I have ever made to change my field from vehicle engineering to education.
 
-My research interests fall in educational psychology and its connection with teaching and learning practices, including the topics of learning from errors, self-regulated learning, and teacher judgments.
+Hi, I am an educational researcher specializing in the field of learning from errors, currently working at [new affiliation]. My interest in educational research was sparked during my undergraduate years, fueled by teaching experiences at cram schools during summer and winter vacations. This led me to pursue a six-year master-to-doctoral program at the College of Education, Zhejiang University, where I majored in curriculum and teaching methodology. My international experiences, which include visits to India for one week, Germany for one month, and Japan for one year, enriched my understanding of global educational practices and enabled me to approach educational issues from diverse perspectives.
 
-I would like to cooperate with researchers and teachers worldwide to design and conduct fun research on teaching and learning improvement. 
+My research interests fall in educational psychology and its application to improve teaching and learning practices, with a particular focus on learning from errors. I do not limit myself to specific research methodologies; instead, I strive to employ whichever quantitative or qualitative methods best address the questions that intrigue me.
+
+I am open and eager to collaborate with researchers and teachers from around the world to design and conduct fun research that enhances teaching and learning.
