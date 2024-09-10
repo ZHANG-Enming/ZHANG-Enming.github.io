@@ -317,7 +317,7 @@ scholar:
 	en: Enming
 	zh: 恩铭
 
-  style: chicago
+  style: apa
   locale: en
 
   source: /_bibliography/
