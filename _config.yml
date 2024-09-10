@@ -310,11 +310,11 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [A]
-  first_name: [B]
+  last_name: [Enming, 恩铭]
+  first_name: [Zhang, 张]
 
   style: apa
-  locale: en
+  locale: zh
 
   source: /_bibliography/
   bibliography: papers.bib
