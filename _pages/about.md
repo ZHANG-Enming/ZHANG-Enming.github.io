@@ -16,8 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, I am ZHANG Enming, an educational researcher emphasizing on the filed of learning from errors. I studied vehicle engineering at Jilin University and got my bachelor's degree in 2018. I got my Ph.D. at the Department of Curriculum and Learning Sciences, Zhejiang University (Successive Postgraduate and Doctoral Programs, 2018-2024). I also have an experience as a special research student studying at the Department of Educational Psychology, The University of Tokyo (2022-2023), granted by China Scholarship Council (CSC).
+Hi, I am an educational researcher emphasizing on the filed of learning from errors. I got my Ph.D. at Zhejiang University and am working at [new affiliation].
 
-I had authored more than 10 publications in scientific journals and books (some of them were translating articles and books). My research interests fall in educational psychology and its connection with teaching and learning practices, including the topics of learning from errors, self-regulated learning, and teacher judgments.
+My research interests fall in educational psychology and its connection with teaching and learning practices, including the topics of learning from errors, self-regulated learning, and teacher judgments.
 
-I would like to cooperate with researchers and teachers worldwide to design and conduct fun research on teaching and learning improvement. You can contact me by email: definedming@zju.edu.cn
+I would like to cooperate with researchers and teachers worldwide to design and conduct fun research on teaching and learning improvement. 
