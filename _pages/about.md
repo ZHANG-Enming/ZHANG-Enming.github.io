@@ -9,7 +9,7 @@ profile:
   image: Enming1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p></p>
+    <p>It is the best decision I have ever made to change my field from vehicle engineering to education.</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
