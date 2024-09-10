@@ -61,13 +61,13 @@
         {% assign author_is_self = false %}
         {%- assign author_last_name = author.last | regex_replace: '[*∗†‡§¶‖&^]', '' -%}
         {%- assign author_last_html = author.last | regex_replace: '([*∗†‡§¶‖&^]+)', '<sup>\1</sup>' -%}
-        {% if site.scholar.last_name[0] contains author_last_name %}
-          {% if site.scholar.first_name[0] contains author.first %}
+        {% if site.scholar.last_name.en contains author_last_name %}
+          {% if site.scholar.first_name.en contains author.first %}
             {% assign author_is_self = true %}
           {% endif %}
         {%- endif -%}
-        {% if site.scholar.last_name[1] contains author_last_name %}
-          {% if site.scholar.first_name[1] contains author.first %}
+        {% if site.scholar.last_name.zh contains author_last_name %}
+          {% if site.scholar.first_name.zh contains author.first %}
             {% assign author_is_self = true %}
           {% endif %}
         {%- endif -%}
