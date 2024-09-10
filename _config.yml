@@ -310,14 +310,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [
-	en: Zhang
-	zh: 张
-	]
-  first_name: [
-	en: Enming
-	zh: 恩铭
-	]
+  last_name: [Enming, 恩铭]
+  first_name: [Zhang, 张]
 
 
   style: apa
