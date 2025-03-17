@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My abstract has been accepted as poster presentation by AERA 2025!
+Our abstract has been accepted as Single Paper by JURE 2025!
