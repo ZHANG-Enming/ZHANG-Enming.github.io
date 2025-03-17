@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our new paper has been published in [i]The Asia-Pacific Education Researcher[/i]!
+Our new paper has been published in <i>The Asia-Pacific Education Researcher</i>!
