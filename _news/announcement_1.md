@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-06-30 15:59:00-0400
+date: 2025-07-25 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I got my PhD at Zhejiang University!
+Our new paper has been accepted by <i>Learning and Instruction</i>!
