@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our new paper has been accepted by <i>Learning and Instruction</i>!
+Our new paper has been published in <i>Learning and Instruction</i>!
