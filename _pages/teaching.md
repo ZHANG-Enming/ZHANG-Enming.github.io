@@ -7,6 +7,20 @@ nav: true
 nav_order: 5
 ---
 
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<title>Projects & Teaching</title>
+<style>
+body{font-family:Arial,Helvetica,sans-serif;margin:2rem;line-height:1.5;}
+table{border-collapse:collapse;width:100%;margin-bottom:2rem;}
+th,td{border:1px solid #ccc;padding:8px 12px;vertical-align:top;}
+th{background:#f7f7f7;text-align:left;font-size:18px;}
+h2{margin-top:2rem;}
+</style>
+</head>
+<body>
+
 <h2 style="font-size: 22px;"><b>Research Projects</b></h2>
 <table>
 <thead>
@@ -70,3 +84,6 @@ nav_order: 5
   </tr>
 </tbody>
 </table>
+
+</body>
+</html>
