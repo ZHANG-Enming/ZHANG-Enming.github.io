@@ -12,16 +12,43 @@ nav_order: 5
 <meta charset="utf-8">
 <title>Projects & Teaching</title>
 <style>
-body{font-family:Arial,Helvetica,sans-serif;margin:2rem;line-height:1.5;}
-table{border-collapse:collapse;width:100%;margin-bottom:2rem;}
-th,td{border:1px solid #ccc;padding:8px 12px;vertical-align:top;}
-th{background:#f7f7f7;text-align:left;font-size:18px;}
-h2{margin-top:2rem;}
+/* Attempt to mimic the font stack in the user's first screenshot */
+body{
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",
+              Arial,"Noto Sans","Liberation Sans","PingFang SC","Hiragino Sans GB",
+              "Microsoft YaHei","sans-serif";
+  margin:2rem;
+  line-height:1.6;   /* Increased line‑height */
+}
+
+table{
+  border-collapse:collapse;
+  width:100%;
+  margin-bottom:2rem;
+}
+
+th,td{
+  border:1px solid #ccc;
+  padding:12px 16px;   /* Increased padding for breathing room */
+  vertical-align:top;
+}
+
+th{
+  background:#f7f7f7;
+  text-align:left;
+  font-size:18px;
+  font-weight:600;   /* Slightly bolder heading */
+}
+
+h2{
+  margin-top:2rem;
+  font-weight:600;
+}
 </style>
 </head>
 <body>
 
-<h2 style="font-size: 22px;"><b>Research Projects</b></h2>
+<h2 style="font-size: 24px;"><b>Research Projects</b></h2>
 <table>
 <thead>
   <tr>
@@ -35,7 +62,7 @@ h2{margin-top:2rem;}
 </tbody>
 </table>
 
-<h2 style="font-size: 22px;"><b>Teaching</b></h2>
+<h2 style="font-size: 24px;"><b>Teaching</b></h2>
 
 <table>
 <thead>
