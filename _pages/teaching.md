@@ -1,3 +1,12 @@
+---
+layout: page
+permalink: /teaching/
+title: Projects & Teaching
+description: 
+nav: true
+nav_order: 5
+---
+
 <h2 style="font-size: 22px;"><b>Research Projects</b></h2>
 <table>
 <thead>
