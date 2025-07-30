@@ -26,7 +26,7 @@ table{
 
 th,td{
   border:1px solid #ccc;
-  padding:14px 18px  !important;   /* Increased padding for breathing room */
+  padding:12px 14px  !important;   /* Increased padding for breathing room */
   vertical-align:top;
 }
 
