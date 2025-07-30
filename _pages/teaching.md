@@ -21,7 +21,7 @@ body{
 table{
   border-collapse:collapse;
   width:100%;
-  margin-bottom:3rem;
+  margin-bottom:2rem;
 }
 
 th,td{
