@@ -34,11 +34,12 @@ th{
   background:#f7f7f7;
   text-align:left;
   font-size:14px;
-  font-weight:600;   /* Slightly bolder heading */
+  font-weight:500;   /* Slightly bolder heading */
 }
 
 h2{
   margin-top:2rem;
+  margin-bottom:1rem;
 }
 </style>
 </head>
