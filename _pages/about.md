@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Connecting educational psychology and practice; Learning from errors
+subtitle: <b>Connecting educational psychology and practice; Learning from errors</b>
 
 profile:
   align: left
