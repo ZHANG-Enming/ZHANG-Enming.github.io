@@ -49,7 +49,7 @@ h2{
 <table>
 <thead>
   <tr>
-     <th>湖南省社科基金教育学专项 (JJ256565)</th>
+     <th>湖南省社科基金教育学专项 (JJ256565; Supported by the Education Department of Hunan Province)</th>
   </tr>
 </thead>
 <tbody>
