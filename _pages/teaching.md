@@ -62,7 +62,7 @@ h2{
 <table>
 <thead>
   <tr>
-     <th>湖南省社科基金教育学专项 (Supported by the Hunan Provincial Philosophy and Social Science Fund; Grant number JJ256565)</th>
+     <th>湖南省社科基金教育学专项 (Supported by the Hunan Provincial Social Science Fund; Grant number JJ256565)</th>
   </tr>
 </thead>
 <tbody>
