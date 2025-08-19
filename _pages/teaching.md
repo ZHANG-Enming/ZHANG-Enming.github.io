@@ -49,7 +49,20 @@ h2{
 <table>
 <thead>
   <tr>
-     <th>湖南省社科基金教育学专项 (JJ256565; Supported by the Education Department of Hunan Province)</th>
+     <th>国家社科基金教育学青年项目 (CPA250325; Supported by the National Office for Philosophy and Social Sciences)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+     <td>中小学生从错误中学习的机制与策略研究 (Research on the mechanism and strategy of K-12 students' learning from errors)</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+     <th>湖南省社科基金教育学专项 (JJ256565; Supported by the Hunan Provincial Philosophy and Social Science Planning Fund Office)</th>
   </tr>
 </thead>
 <tbody>
