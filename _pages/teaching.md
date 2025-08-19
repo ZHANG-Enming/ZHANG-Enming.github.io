@@ -49,12 +49,12 @@ h2{
 <table>
 <thead>
   <tr>
-     <th>国家社科基金教育学青年项目 (CPA250325; Supported by the National Office for Philosophy and Social Sciences)</th>
+     <th>国家社科基金教育学青年项目 (Supported by the National Social Science Fund of China; Grant number CPA250325)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-     <td>中小学生从错误中学习的机制与策略研究 (Research on the mechanism and strategy of K-12 students' learning from errors)</td>
+     <td>中小学生从错误中学习的机制与策略研究 (Mechanisms and learning strategies underlying K–12 students' learning from errors)</td>
   </tr>
 </tbody>
 </table>
@@ -62,12 +62,12 @@ h2{
 <table>
 <thead>
   <tr>
-     <th>湖南省社科基金教育学专项 (JJ256565; Supported by the Hunan Provincial Philosophy and Social Science Planning Fund Office)</th>
+     <th>湖南省社科基金教育学专项 (Supported by the Hunan Provincial Philosophy and Social Science Fund; Grant number JJ256565)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-     <td>生成式人工智能赋能中学生从错误中学习的实践研究 (Practical research on using generative artificial intelligence to empower middle school students' learning from errors)</td>
+     <td>生成式人工智能赋能中学生从错误中学习的实践研究 (Using generative artificial intelligence to empower middle school students' learning from errors: A practical research approach)</td>
   </tr>
 </tbody>
 </table>
