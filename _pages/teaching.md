@@ -49,7 +49,7 @@ h2{
 <table>
 <thead>
   <tr>
-     <th>国家社科基金教育学青年项目 (20万元, Supported by the National Social Science Fund of China; Grant number CPA250325)</th>
+     <th>国家社科基金教育学青年项目 (主持, 20万元, Supported by the National Social Science Fund of China)</th>
   </tr>
 </thead>
 <tbody>
@@ -62,7 +62,7 @@ h2{
 <table>
 <thead>
   <tr>
-     <th>湖南省社科基金教育学专项 (2万元, Supported by the Hunan Provincial Social Science Fund; Grant number JJ256565)</th>
+     <th>湖南省社科基金教育学专项 (主持, 2万元, Supported by the Hunan Provincial Social Science Fund)</th>
   </tr>
 </thead>
 <tbody>
