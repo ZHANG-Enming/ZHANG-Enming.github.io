@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /talking/
+permalink: /pre/
 title: Presentations & Talks
 description: 
 nav: true
