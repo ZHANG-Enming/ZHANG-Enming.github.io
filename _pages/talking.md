@@ -18,6 +18,11 @@ body{
   line-height:1.6;   /* Increased line‑height */
 }
 
+article ul li + li,
+article ol li + li { margin-top: 0.6em; }
+
+article { line-height: 1.5; }
+
 h2{
   margin-top:2rem;
   margin-bottom:1rem;
@@ -25,8 +30,6 @@ h2{
 </style>
 </head>
 <body>
-
-.toc li{margin:2px 0}
 
 <h2 style="font-size: 22px;"><b>Conference Presentations</b></h2>
    <ul class="list">
@@ -39,6 +42,7 @@ h2{
         </ul>
 
 <h2 style="font-size: 22px;"><b>Invited Academic Talks</b></h2>
+
 
 <h2 style="font-size: 22px;"><b>School Special Lecture</b></h2>
   <ul class="list">
