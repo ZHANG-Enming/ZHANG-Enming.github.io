@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /project_and_teach/
 title: Projects & Teaching
 description: 
 nav: true
