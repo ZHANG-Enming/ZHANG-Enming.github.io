@@ -42,10 +42,14 @@ h2{
         </ul>
 
 <h2 style="font-size: 22px;"><b>Invited Talks</b></h2>
+   <ul class="list">
 	  <li><b>Zhang, E.</b> (2025 December 28). <i>Cong cuowu zhong xuexi celue ke de tansuo jinxing shi</i> [The ongoing exploration of a strategy lesson on learning from errors]. Invited for talking at the "New Classroom Teaching Paradigm" Education Forum, Wechat Streaming, Online. (In Chinese.)</li>
+  </ul>
+
 
 <h2 style="font-size: 22px;"><b>School Special Lecture</b></h2>
   <ul class="list">
 	  <li><b>Zhang, E.</b> (Jan 2025). <i>Ba cuowu bianwei jinbu de miyao: Xinli xue shijiao xia CuoZhongXue de sanbu celve</i> [Leveraging errors as the key to success: The three-step strategy of "learning from errors" from the psychological perspective]. Special lecture for tenth-grade students at Hangzhou Yuhang First High School. (In Chinese.)</li>
 	  <li><b>Zhang, E.</b> (Jun 2023). <i>“Komyunike-syon” towa?</i> [What is “communication?”]. Special lecture for seventh-grade students at Saitama Prefectural Ina Gakuen Junior High School. (In Japanese.)</li>
+ </ul>
 
