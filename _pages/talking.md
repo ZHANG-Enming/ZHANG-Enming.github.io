@@ -43,7 +43,7 @@ h2{
 
 <h2 style="font-size: 22px;"><b>Invited Talks</b></h2>
    <ul class="list">
-	  <li><b>Zhang, E.</b> (2025 December 28). <i>Cong cuowu zhong xuexi celue ke de tansuo jinxing shi</i> [The ongoing exploration of a strategy lesson on learning from errors]. Invited for talking at the "New Classroom Teaching Paradigm" Education Forum, Wechat Streaming, Online. (In Chinese.)</li>
+	  <li><b>Zhang, E.</b> (2025 December 28). <i>Cong cuowu zhong xuexi celue ke de tansuo jinxing shi</i> [The ongoing exploration of a strategy lesson on learning from errors]. Invited for talking at the "New Classroom Teaching Paradigm" Education Forum, WeChat Streaming, Online. (In Chinese.)</li>
   </ul>
 
 
